@@ -2,7 +2,7 @@
 
 A web-based Sorting Algorithm Visualizer that demonstrates how different sorting algorithms work through animated visualizations. This project helps users understand the step-by-step execution of sorting algorithms in an interactive way.
 
-## 🚀 Features
+##  Features
 
 - Visualize sorting algorithms with animations
 - Adjustable array size
@@ -10,19 +10,19 @@ A web-based Sorting Algorithm Visualizer that demonstrates how different sorting
 - User-friendly interface
 - Responsive design
 
-## 📊 Implemented Algorithms
+##  Implemented Algorithms
 
 - Bubble Sort
 - Selection Sort
 - Merge Sort
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 AlgoViz-Sorting-Visualizer/
@@ -32,7 +32,7 @@ AlgoViz-Sorting-Visualizer/
 └── script.js
 ```
 
-## 🎯 How It Works
+##  How It Works
 
 1. Generate an array of random values.
 2. Select a sorting algorithm.
@@ -40,7 +40,7 @@ AlgoViz-Sorting-Visualizer/
 4. Start the sorting process.
 5. Watch the algorithm sort the array step-by-step.
 
-## 💻 Installation
+##  Installation
 
 1. Clone the repository:
 
@@ -56,16 +56,16 @@ cd AlgoViz-Sorting-Visualizer
 
 3. Open `index.html` in your browser.
 
-## 📸 Preview
+##  Preview
 
 Add screenshots or GIFs here to showcase the visualization.
 
-## 🌐 Live Demo
+##  Live Demo
 
 GitHub Pages:
 https://ruhullah786.github.io/AlgoViz-Sorting-Visualizer/
 
-## 📈 Learning Outcomes
+##  Learning Outcomes
 
 - Understanding sorting algorithms
 - DOM Manipulation
@@ -73,13 +73,13 @@ https://ruhullah786.github.io/AlgoViz-Sorting-Visualizer/
 - Data Visualization Concepts
 - Frontend Development Fundamentals
 
-## 👨‍💻 Author
+##  Author
 
 **Ruhullah Alam**
 
 - GitHub: https://github.com/Ruhullah786
 - LinkedIn: https://www.linkedin.com/in/ruhullah-alam-6421391a3/
 
-## 📄 License
+##  License
 
 This project is open-source and available under the MIT License.
